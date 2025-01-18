@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .task_img{
+            width:320px;
+        }
+    </style>
+</head>
+<body>
+    <div class="button_field">
+        <button id = "btn">Generate</button>
+    </div>
+    <div class="wrapper" id = "all">
+        <div id="text">
+
+        </div>
+    </div>
+    <script>
+        function getRandomInterval(min,interval) {
+        return min+Math.floor(Math.random() * interval);
+        }
+        function getRandomInt(max) {
+        return Math.floor(Math.random() * max);
+        }
+        function getWrongAnswer(min,max,right) {
+            do {
+               variant = min + Math.floor(Math.random() * (max-min));
+            } while (variant == right);
+
+
+        return variant;
+        }
+        function getRandomDeltaInt(value,delta) {
+            do {
+            rand = Math.random();
+            if (rand>0.5){sign = 1;} 
+            else {sign = -1}
+            result =  value+sign*Math.floor(Math.random() * delta)+1
+            } while (result == value)
+        return result;
+        }
+
+        var btn = document.getElementById("btn");
+        var text = document.getElementById("text");
+
+        var all = document.getElementById("all");
+
+
+        btn.addEventListener("click",generate);
+        all.addEventListener("click",check);
+
+
+
+        var n = 0;
+        function generate(){
+            console.log("Generate");
+            let d = document.createElement("div");
+            let base = getRandomInterval(3,9);
+            let h = getRandomInterval(2,4); 
+            let area = base*h/2;
+            let img = new Image();
+            img.className = "task_img";
+            img.src =
+                `https://innovations.kh.ua/images/triangle_sm.php?base=${base}&h=${h}`;
+
+            d.innerHTML = `A triangle has a base of ${base} cm and a height of ${h} cm. What is its area?`;
+            var name = `name_${n}`;
+            let answer = document.createElement("div");
+            answer.id = name;
+            let arr = [];
+            for(i=0;i<4;i+=1){
+                do{
+                    var value = getRandomDeltaInt(area,5);
+                    var flag = 0;
+                    for(j=0;j<i;j++){if (arr[j] == value) {flag = 1;}}
+
+                }while (flag == 1);
+                arr.push(value);
+            }
+            right_n = getRandomInt(4);
+            arr[right_n]=area;
+
+            for(i=0;i<4;i+=1){
+                let t = document.createElement("label");
+                t.innerHTML = arr[i];
+                var radioInput = document.createElement('input');
+                radioInput.setAttribute('type', 'radio');
+                radioInput.setAttribute('name', name);
+                radioInput.setAttribute('value', arr[i]);
+                if (i==right_n){
+                    radioInput.setAttribute('right', 1);
+                }else{
+                    radioInput.setAttribute('right', 0);
+                }
+                answer.appendChild(radioInput);
+                answer.appendChild(t);
+            }
+
+            text.appendChild(img);
+            text.appendChild(d);
+            text.appendChild(answer);
+            n +=1;
+        }
+        function check(event){
+            console.log(event.target.value);
+            let el = event.target;
+            console.log(el.getAttribute("right"));
+
+            let elem = document.getElementById(el.getAttribute("name"));
+            console.log(elem);
+            if (el.getAttribute("right") == 1){
+                elem.style = "background:green;"
+            } else{
+                elem.style = "background:red;"
+
+            }
+
+        }
+    </script>
+</body>
+</html>

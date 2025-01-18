@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   <label for="x1">x1:</label> <input type="text" id = "x1" class = "len_input" value="0"><br>
+   <label for="y1">y1:</label> <input type="text" id = "y1" class = "len_input" value="0"><br>
+   <label for="x2">x2:</label> <input type="text" id = "x2" class = "len_input" value="7"><br>
+   <label for="y2">y2:</label> <input type="text" id = "y2" class = "len_input" value="5"><br>
+    <button id = "btn">Change</button><br>
+    <img src="https://innovations.kh.ua/images/poly_grid.php?x1=0&y1=0&x2=7&y2=5" alt="" srcset="" id = "pic">
+    <script>
+        btn.addEventListener("click",fnc);
+        function fnc (){
+            console.log(x1.value);
+            console.log(y1.value);
+            console.log(x2.value);
+            console.log(y2.value);
+            src_string = `https://innovations.kh.ua/images/poly_grid.php?x1=${x1.value}&y1=${y1.value}&x2=${x2.value}&y2=${y2.value}`
+            pic.src =  src_string
+        }
+    </script>
+</body>
+</html>
