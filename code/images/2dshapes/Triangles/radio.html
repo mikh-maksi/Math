@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Radio Button Example</title>
+    <script>
+        // JavaScript function to check if a radio button is selected and display an alert
+        function checkSelectedRadio() {
+            // Get all radio buttons by name
+            const radios = document.getElementsByName("exampleRadio");
+
+            let selectedValue = null;
+
+            // Iterate through the radio buttons to find the selected one
+            for (const radio of radios) {
+                if (radio.checked) {
+                    selectedValue = radio.value;
+                    break;
+                }
+            }
+
+            // Display an alert based on whether a radio button was selected
+            if (selectedValue) {
+                alert(`You selected: ${selectedValue}`);
+            } else {
+                alert("Please select an option.");
+            }
+        }
+
+        // Event listener for radio button changes
+        function handleRadioChange(event) {
+            alert(`You changed your selection to: ${event.target.value}`);
+        }
+
+        // Add event listeners to all radio buttons
+        window.onload = () => {
+            const radios = document.getElementsByName("exampleRadio");
+            for (const radio of radios) {
+                radio.addEventListener("change", handleRadioChange);
+            }
+        };
+    </script>
+</head>
+<body>
+    <form>
+        <label><input type="radio" name="exampleRadio" value="Option 1"> Option 1</label><br>
+        <label><input type="radio" name="exampleRadio" value="Option 2"> Option 2</label><br>
+        <label><input type="radio" name="exampleRadio" value="Option 3"> Option 3</label><br>
+        <button type="button" onclick="checkSelectedRadio()">Submit</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,1131 @@
+﻿Standard Code;Standard Description;All Success Criteria for the Standard;Open Response Example 1 (e.g. Coordinate Plane);Success Criteira for Open Response Example 1;;Json Schema;Open Response Example 2 (e.g. Slope Triangle;Success Criteria Used for Slope Triangle Example;Json Schema;;Single Choice Example;Success Criteria Used for Single Choice Example;Examples of templates for the tasks;
+8.G.1;Verify experimentally the properties of rotations, reflections, and translations.;"- Experiment with shapes to verify that lines remain as lines and segments retain their length in transformations.
+- Show that angles remain unchanged after rotations, reflections, or translations.
+- Use examples to confirm that parallel lines stay parallel during transformations.
+- Apply transformations to figures and observe that size and shape properties remain consistent.
+- Describe how rotations, reflections, and translations change the orientation but not the structure of shapes.
+- Verify congruence between the original and transformed figure by comparing lengths and angles.";Plot a triangle with vertices at A(2,3), B(6,3), and C(4,7). Reflect the triangle over the x-axis, then rotate it 90° clockwise. Verify that all line segments remain the same length, all angles remain unchanged, and parallel lines stay parallel. Use this information to confirm congruence between the original and transformed triangle.;"- Experiment with shapes to verify that lines remain as lines and segments retain their length in transformations.
+- Show that angles remain unchanged after rotations, reflections, or translations.
+- Use examples to confirm that parallel lines stay parallel during transformations.
+- Verify congruence between the original and transformed figure by comparing lengths and angles.";;;On a coordinate plane, draw a line passing through (2,3) and (6,7). Use slope triangles to verify that the line’s slope is consistent by comparing the rise and run between three pairs of points on the line.;"- Experiment with shapes to verify that lines remain as lines and segments retain their length in transformations.
+- Use examples to confirm that parallel lines stay parallel during transformations.
+- Apply transformations to figures and observe that size and shape properties remain consistent.
+- Describe how rotations, reflections, and translations change the orientation but not the structure of shapes.
+- Verify congruence between the original and transformed figure by comparing lengths and angles.";;;"Which transformation does NOT preserve the length of line segments?
+A. Reflection
+B. Rotation
+C. Translation
+D. Dilation (Correct Answer: D)";"- Verify congruence between the original and transformed figure by comparing lengths and angles.
+- Experiment with transformations to observe length preservation.
+- Describe how transformations affect shape and size.";"- Source: [random tiangle], action [(refletced: x|y) | (rotated: random deg) | sized: random ration]. Questions: 
+-- is line ab flow to line a1b1?| is angle a equal angle a1| angle a = 30 witch degrees have angle a1?
+-- square of triangle abc is 30, is square of triangle a1b1c1 30?
+-- In wich direction is the acute angle of triangle directed?
+-- Wich of figures are congruented? (some figures is congruented, some are not)
+-- On wich degree shape a (triangle) is rotated (30 | 45 | 60 | 90)
+
+
+- Source: random parallel lines. action [(refletced: x|y) | (rotated: random deg)]. Questions: lines a and b are parallel, are new lines a1 and b1 paralel?
+
+";
+8.G.2;Understand that a two-dimensional figure is congruent to another if the second can be obtained from the first by a sequence of rotations, reflections, and translations.;"- Describe two figures as congruent if one can be transformed to match the other using rotations, reflections, or translations.
+- Identify transformations that result in congruent shapes and explain the process.
+- Provide examples of congruent figures and list the transformations needed to align them.
+- Confirm congruence by comparing angles and side lengths in transformed figures.
+- Use diagrams to show congruence and label each transformation applied.
+- Describe congruent figures by showing that their shapes and sizes are identical.";Triangle ABC has vertices at A(1,1), B(4,1), and C(1,5). Apply a series of transformations: first reflect it across the y-axis, then translate it 2 units up. Prove congruence by comparing side lengths and angles of the original and transformed triangles, and describe the sequence of transformations applied.;"- Describe two figures as congruent if one can be transformed to match the other using rotations, reflections, or translations.
+- Confirm congruence by comparing angles and side lengths in transformed figures.
+- Identify transformations that result in congruent shapes and explain the process.";;;Two lines are drawn on a coordinate plane: Line L₁ passes through (1,1) and (4,4), and Line L₂ passes through (2,2) and (5,5). Use slope triangles to prove that L₁ and L₂ are parallel by showing their slopes are the same.;"- Confirm congruence by comparing angles and side lengths in transformed figures.
+- Identify transformations that result in congruent shapes and explain the process.
+- Describe two figures as congruent if one can be transformed to match the other using rotations, reflections, or translations.
+- Provide examples of congruent figures and list the transformations needed to align them.";;;"Which sequence of transformations would result in congruence?
+A. Translation followed by reflection
+B. Dilation followed by translation
+C. Reflection followed by dilation
+D. Rotation followed by reflection (Correct Answer: A)";"- Describe two figures as congruent if one can be transformed to match the other.
+- Identify transformations that result in congruent shapes.
+- Confirm congruence by explaining transformation sequences.";- Source: two figures. Question: what actions needs to flow from figure a to figure b;
+8.EE.5;Graph proportional relationships, interpreting the unit rate as the slope of the graph.;"- Plot proportional relationships on a graph and interpret the slope as the rate of change.
+- Identify the unit rate of a graph by calculating its slope (e.g., distance per time).
+- Compare two proportional relationships by examining their graphs or equations.
+- Determine which of two lines has a steeper slope, explaining what this means in context.
+- Interpret slope as the speed, cost, or other rate in real-world examples.
+- Describe how a line passing through the origin represents a proportional relationship.";Graph a proportional relationship where a car travels 60 miles per hour. Plot points such as (1,60), (2,120), and (3,180). Calculate the slope between points and interpret it as the rate of change (miles per hour). Compare this graph to another graph where a car travels 45 miles per hour and determine which line is steeper.;"- Plot proportional relationships on a graph and interpret the slope as the rate of change.
+- Identify the unit rate of a graph by calculating its slope (e.g., distance per time).
+- Determine which of two lines has a steeper slope, explaining what this means in context.";;;Plot a line passing through (0,0) and (3,9). Draw slope triangles between points (0,0), (1,3), and (3,9). Use these triangles to calculate the slope and interpret it as the rate of change (3 units per 1 unit). Compare to a second line with a different slope.;"- Plot proportional relationships on a graph and interpret the slope as the rate of change.
+- Identify the unit rate of a graph by calculating its slope (e.g., distance per time).
+- Compare two proportional relationships by examining their graphs or equations.
+- Determine which of two lines has a steeper slope, explaining what this means in context.";;;"If a car travels 90 miles in 2 hours, what is the unit rate of speed?
+A. 45 mph
+B. 50 mph
+C. 60 mph (Correct Answer: C)
+D. 70 mph";"- Identify the unit rate by calculating the slope.
+- Interpret the slope as the rate of change.
+- Use proportional relationships to determine unit rate.";;
+8.EE.6;Use similar triangles to explain why the slope is the same between any two distinct points on a non-vertical line in the coordinate plane.;"- Explain that similar triangles formed on a line show a consistent slope between any two points.
+- Use similar triangles to derive the equation of a line passing through the origin (y=mx).
+- Derive the equation of a line that intercepts the y-axis (y=mx+b) using similar triangles.
+- Solve problems involving slopes by demonstrating the relationship between triangles and linear equations.
+- Use the slope formula to calculate and confirm consistent slope values on a line.
+- Relate the concept of slope to the steepness of a line, using examples on a coordinate plane.";Use similar triangles to show the slope between points (1,2), (3,6), and (5,10) on a graph. Draw triangles formed by these points and calculate the rise and run. Use this to derive the equation y=2x, showing how the slope remains consistent between all points.;"- Explain that similar triangles formed on a line show a consistent slope between any two points.
+- Use similar triangles to derive the equation of a line passing through the origin (y=mx).
+- Use the slope formula to calculate and confirm consistent slope values on a line.";;;Explain that similar triangles formed on a line passing through (0,0) and (6,18) show a consistent slope of 3/1. Derive the equation of the line y=3x using slope triangles and confirm this relationship graphically.;"- Explain that similar triangles formed on a line show a consistent slope between any two points.
+- Use similar triangles to derive the equation of a line passing through the origin (y=mx).
+- Derive the equation of a line that intercepts the y-axis (y=mx+b) using similar triangles.
+- Solve problems involving slopes by demonstrating the relationship between triangles and linear equations.
+- Use the slope formula to calculate and confirm consistent slope values on a line.
+- Relate the concept of slope to the steepness of a line, using examples on a coordinate plane.";;;"Which statement about similar triangles is true?
+A. They have the same slope when used on a line.
+B. They always have the same area.
+C. They always have one right angle.
+D. They can only be used on vertical lines. (Correct Answer: A)";"- Explain that similar triangles formed on a line show consistent slopes.
+- Use similar triangles to demonstrate relationships on a line.
+- Relate slope consistency to line steepness.";;
+;;;;;;;;;;;;;;
+8.F.1;Understand that a function is a rule that assigns to each input exactly one output. The graph of a function is the set of ordered pairs consisting of an input and the corresponding output.;"- Define a function as a relationship where each input has one unique output.
+- Identify examples of functions and non-functions by examining input-output pairs.
+- Recognize functions in tables and graphs where each input maps to only one output.
+- Explain how the graph of a function represents ordered pairs of inputs and outputs.
+- Provide examples of real-world functions, such as the relationship between time and distance.
+- Distinguish between functions and non-functions, describing the one-to-one rule.";A vending machine dispenses one snack for each dollar inserted. Identify if this is a function by explaining the relationship between dollars inserted (input) and snacks dispensed (output).;"- Define a function as a relationship where each input has one unique output.
+- Identify examples of functions and non-functions by examining input-output pairs.
+- Recognize functions in tables and graphs where each input maps to only one output.
+- Explain how the graph of a function represents ordered pairs of inputs and outputs.
+- Provide examples of real-world functions, such as the relationship between time and distance.
+- Distinguish between functions and non-functions, describing the one-to-one rule.";n/a;;n/a;n/a;;n/a;"Which of the following represents a function?
+A. A student selects a drink from a vending machine, and one drink is dispensed.
+B. A person flips a coin, and the coin lands on either heads or tails.
+C. A faucet is turned on, and water flows at varying rates depending on pressure.
+D. A number is squared, producing a single output. (Correct Answer: D)";"- Identify examples of functions and non-functions by examining input-output pairs.
+- Define a function as a relationship where each input has one unique output.
+- Distinguish between functions and non-functions, describing the one-to-one rule.";;
+8.F.2;Compare properties of two functions each represented in a different way (algebraically, graphically, numerically in tables, or by verbal descriptions).;"- Compare two functions by examining their rates of change or slopes.
+- Determine which of two functions has a greater rate of change by comparing graphs or tables.
+- Explain how different representations (e.g., table vs. equation) show the same relationship.
+- Use algebraic expressions and graphs to determine differences in function properties.
+- Interpret the meaning of rate of change in different contexts (e.g., speed or cost).
+- Compare linear and nonlinear functions based on their graphs or equations.";A car rental company offers two plans: Plan A charges $20 per day with no initial fee, while Plan B charges $15 per day plus a $10 initial fee. Determine which plan is better for a 3-day rental by comparing their rates of change and total costs.;"- Compare two functions by examining their rates of change or slopes.
+- Determine which of two functions has a greater rate of change by comparing graphs or tables.
+- Explain how different representations (e.g., table vs. equation) show the same relationship.
+- Use algebraic expressions and graphs to determine differences in function properties.
+- Interpret the meaning of rate of change in different contexts (e.g., speed or cost).
+- Compare linear and nonlinear functions based on their graphs or equations.";n/a;;n/a;n/a;;n/a;"Plan A charges $20 per day. Plan B charges $15 per day with a $10 initial fee. What is the cost of Plan B after 3 days?
+A. $45
+B. $55
+C. $65 (Correct Answer: C)
+D. $75";"- Use algebraic expressions to determine differences in function properties.
+- Compare two functions by examining their rates of change or slopes.
+- Interpret the meaning of rate of change in different contexts (e.g., cost).";;
+8.F.3;"Interpret the equation y=mx+bas defining a linear function, whose graph is a straight line; give examples of functions that are not linear.";"- Recognize that the equation y=mx+brepresents a linear function with a constant rate of change.
+- Identify the slope (m) and y-intercept (b) in the equation y=mx+b.
+- Compare linear functions to non-linear functions by examining the rate of change.
+- Provide examples of non-linear functions, like y=x2, and explain why their graphs are curved.
+- Explain that linear functions graph as straight lines, while non-linear functions do not.
+- Distinguish between linear and non-linear functions using both graphs and equations.";A plumber charges $50 for a service call plus $25 per hour of work. Represent this as a linear function y=25x+50, where x is the number of hours worked, and explain why this is linear. Compare it to a pricing model where charges increase exponentially.;"- Recognize that the equation y=mx+brepresents a linear function with a constant rate of change.
+- Identify the slope (m) and y-intercept (b) in the equation y=mx+b.
+- Compare linear functions to non-linear functions by examining the rate of change.
+- Provide examples of non-linear functions, like y=x2, and explain why their graphs are curved.
+- Explain that linear functions graph as straight lines, while non-linear functions do not.
+- Distinguish between linear and non-linear functions using both graphs and equations.";n/a;;n/a;n/a;;n/a;"Which equation represents a linear function?
+A. y=x2+3
+B. y=25x+50(Correct Answer: B)
+C. y=2x
+D. y=1/x";"- Recognize that the equation y=mx+brepresents a linear function with a constant rate of change.
+- Identify the slope (m) and y-intercept (b) in the equation y=mx+b.
+- Distinguish between linear and non-linear functions using equations.";;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;Sucess criteria;;Short description;argument 1;argument 2;Tasks;;;;;;;
+;;- Experiment with shapes to verify that lines remain as lines and segments retain their length in transformations.;;line transformation;line transformation;;;1. Which transormation is realised: A. Reflection by y. B. Reflection by x. C Rotation per 90 degrees. D. Rotation per 45 degrees.;1. Wich length have line with length in 3 cm after rotation by 45 degrees.;;;;;
+;;- Show that angles remain unchanged after rotations, reflections, or translations.;;triangle transformation: angles, lines, square;triangle transformation;angles, lines, square;;;1. Wich length have side A with length in 3 cm after rotation of triangle by 45 degrees.;1. Wich length have angle A (30 degrees) after rotation of triangle by 45 degrees.;;;;
+;;- Use examples to confirm that parallel lines stay parallel during transformations.;;paralel line transformation;lines transformation;;"1. On which picture lines are parallel:
+A. On picture A. B. On picture B. C. On both pictures. D. Not in any picture";1. Is this lines is parallel;;;;;;
+;;- Apply transformations to figures and observe that size and shape properties remain consistent.;;triangle transformation: square, size;triangle transformation;square;;;"1. Which shape we recive after rotation triangle by 45 degrees?
+A. Triangle. B. Square. C. Pyramyd. D. Circle";;1. What size have traingle (5 cm2), which rotated by 30 degrees.;;;
+;;- Describe how rotations, reflections, and translations change the orientation but not the structure of shapes.;;triangle transformation: direction;triangle transformation;diection;;;;;;1. Which of direction will have angle A (up), if we rotate triangle by 90 degrees left.;1. Which sizes of these shapes (compute by coordinates):;1. Which of shapes have size in 5 cm2?
+;;- Verify congruence between the original and transformed figure by comparing lengths and angles.;;triangle transformation: is congruanding?,;triangle transformation;;"1. Which of shapes are congruence with base?
+[show 4 shapes that rotated and have lenghts of sides and sizes of angles]";;;;;;;
+;;;;;;;;;;;;;;
+;;- Describe two figures as congruent if one can be transformed to match the other using rotations, reflections, or translations.;;triangle transformation: is congruant?,;triangle transformation;is congruent;1. Is this figures are congruent?;"1. Which actions we need to applicate to figure A to recive figure B.
+A. Rotate by 45 degrees left, іncrease by 2 times. B. Rotate by 45 degrees right, decrease by 2 times. C. Rotate by 90 degrees left. D. This figures aren't congruent.";;;;;;
+;;- Identify transformations that result in congruent shapes and explain the process.;;triangle transformation:  how to tranform?;triangle transformation;flow of transformation;;;1. Which transformatoin applicate for figure A to recive figure B?;;;;;
+;;- Provide examples of congruent figures and list the transformations needed to align them.;;triangle transformation:  how to tranform? wich is congruant?;triangle transformation;;"1. Which actions we need to applicate to figure A to align it to figure B.
+A. Rotate by 45 degrees left, іncrease by 2 times. B. Rotate by 45 degrees right, decrease by 2 times. C. Rotate by 90 degrees left. D. This figures aren't congruent.";;;;;;;
+;;- Confirm congruence by comparing angles and side lengths in transformed figures.;;triangle transformation: angles, lines, square;triangle transformation;angles, lines, square;"1. Which of shapes are congruence (≅) with base?
+[show 4 shapes that rotated and have lenghts of sides and sizes of angles]";;;;;;;
+;;- Use diagrams to show congruence and label each transformation applied.;;triangle transformation:  how to tranform? diagrams of transformation/;triangle transformation;Transformation diagram;"1. This 2 figures are congruence. Which mark relate for side AB
+A. | B. ||. C. ~";;;;;;;
+;;- Describe congruent figures by showing that their shapes and sizes are identical.;;triangle transformation: angles, lines, square;triangle transformation;angles, lines, square;"1. Which figure is congruent to base?
+[4 figures, from which 1 is congruent for base]";;;;;;;
+;;;;;;;;;;;;;;
+;;- Explain that similar triangles formed on a line show a consistent slope between any two points.;;triangles: slope ration;triangles;slope ratio;;;;;;;;
+;;- Use similar triangles to derive the equation of a line passing through the origin (y=mx).;;triangles: what a function;triangles;function;;;;;;;;
+;;- Derive the equation of a line that intercepts the y-axis (y=mx+b) using similar triangles.;;triangles: what a function (derive the equation);triangles;function;;;;;;;;
+;;- Solve problems involving slopes by demonstrating the relationship between triangles and linear equations.;;from equation to triangle;triangles;function;;;;;;;;
+;;- Use the slope formula to calculate and confirm consistent slope values on a line.;;line to  consistent slope values;line;slope ratio;;;;;;;;
+;;- Relate the concept of slope to the steepness of a line, using examples on a coordinate plane.;;line (no equitions show) to  consistent slope values;line;slope ratio;;;;;;;;
+;;;;;;;;;;;;;;
+;;- Define a function as a relationship where each input has one unique output.;;input-output table to function (equition);input-output table;function;;;;;;;;
+;;- Identify examples of functions and non-functions by examining input-output pairs.;;is input-output pairs show function or no?;input-output table;function;;;;;;;;
+;;- Recognize functions in tables and graphs where each input maps to only one output.;; tables and graphs ( each input maps to only one output.) to equition;graphs;function;;;;;;;;
+;;- Explain how the graph of a function represents ordered pairs of inputs and outputs.;;graphs to table;graphs;input-output table;;;;;;;;
+;;- Provide examples of real-world functions, such as the relationship between time and distance.;; real-world functions to time-distance function; real-world functions;graphs;;;;;;;;
+;;- Distinguish between functions and non-functions, describing the one-to-one rule.;;"is input-output pairs show function or no?
+(one two one rule picture)";input-output table;function;;;;;;;;
+;;;;;;;;;;;;;;
+;;- Compare two functions by examining their rates of change or slopes.;;Two functions comapare (who is faster, etc.);function;function;;;;;;;;
+;;- Determine which of two functions has a greater rate of change by comparing graphs or tables.;;Two functions comapare using tables or graphs (who is faster, etc.);input-output table;input-output table;;;;;;;;
+;;- Explain how different representations (e.g., table vs. equation) show the same relationship.;;is  different representations (e.g., table vs. equation) show the same relationship or no;input-output table;function;;;;;;;;
+;;- Use algebraic expressions and graphs to determine differences in function properties.;;compare two functions: differences in function properties;function;function;;;;;;;;
+;;- Interpret the meaning of rate of change in different contexts (e.g., speed or cost).;;rate of change by graph, equitions (speed,cost);function;rate of change;;;;;;;;
+;;- Compare linear and nonlinear functions based on their graphs or equations.;;is function linear? Wich of functions linear? Wich of functions nonlinear?;function;type of function;;;;;;;;
+;;;;;;;;;;;;;;
+;;- Recognize that the equation y=mx+b represents a linear function with a constant rate of change.;;rate of change for the function (which of rate of change represent wich function);function;rate of change;;;;;;;;
+;;- Identify the slope (m) and y-intercept (b) in the equation y=mx+b.;;function to  slope (m) and y-intercept (b);function;  slope (m) and y-intercept (b);;;;;;;;
+;;- Compare linear functions to non-linear functions by examining the rate of change.;;wich function have higer rate of change?;function;rate of change;;;;;;;;
+;;- Provide examples of non-linear functions, like y=x2, and explain why their graphs are curved.;;Graphs of non linear functions;graph of function;graph of function;;;;;;;;
+;;- Explain that linear functions graph as straight lines, while non-linear functions do not.;;Graphs of linear and non linear functions (using rate of changes);graph of function;graph of function;;;;;;;;
+;;- Distinguish between linear and non-linear functions using both graphs and equations.;;Graphs of linear and non linear functions (using graphs and equitions);graph of function;graph of function;;;;;;;;
+;;;;;;;;;;;;;;
+;Index;Resourses;;Index;Types of tasks;;;;;;;;;
+;1;Line;;A;About question;;;;;;;;;
+;2;Triangle (shape);;B;Compare question;;;;;;;;;
+;3;Graph of real function (spead, cost);;C;Choose question;;;;;;;;;
+;4;Line with slope (triangles with slope);;D;Choose question with base;;;;;;;;;
+;5;Input-output table;;E;Multi shape question;;;;;;;;;
+;6;Function (equitions);;;;;;;;;;;;
+;7;Graph of non-linear function;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
